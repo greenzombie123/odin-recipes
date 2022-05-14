@@ -1,0 +1,36 @@
+/*Index Page*/
+
+.title{
+    background-color: lightgreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+}
+
+.titlepage-list li{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*Vanilla Ice Cream*/
+
+.food{
+    text-align: center;
+    height: 100px;
+    background-color: red;
+    font-size: 60px;
+}
+
+/**/
+
+.ingredients{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul.ingredients{
+    background-color: aqua;
+}
+
+ol.ingredients{
+    background-color: blanchedalmond;
+}
